@@ -1,3 +1,8 @@
+**This Project is being rewriten in C to make it faster, and better looking.**
+
+
+
+
 Hummingbird is a GUI for the TI-84 Plus CE programmable graphing calculator written completely in TI-BASIC.
 
 **1: Installation:**
