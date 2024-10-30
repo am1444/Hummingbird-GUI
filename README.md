@@ -36,3 +36,5 @@ Now you can exit your editor and startup HBIRD by running prgmHBIRD.
   Hummingbird is yet another example of the desktop metaphor. The cursor ("^\") is moved quickly by the d-pad (arrows), and slowly by the _del_, _stat_, _vars_ and _clear_ (or _trace_ and _graph_) buttons. Clicking is done with the
 _enter_ key or the _2nd_ key (which I find a lot more comfortable). Basic settings and information can be seen in the "Alpha Menu", accessed by pressing the _alpha_ or _y=_ keys. You can also move where programs are pinned to by
 placing the cursor onto a program and pressing the _MODE_ button, moving it around, and then clicking.
+
+NOTE: This repo is being archived on the 30th of October 2024.
