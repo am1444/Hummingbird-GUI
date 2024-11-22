@@ -37,4 +37,4 @@ Now you can exit your editor and startup HBIRD by running prgmHBIRD.
 _enter_ key or the _2nd_ key (which I find a lot more comfortable). Basic settings and information can be seen in the "Alpha Menu", accessed by pressing the _alpha_ or _y=_ keys. You can also move where programs are pinned to by
 placing the cursor onto a program and pressing the _MODE_ button, moving it around, and then clicking.
 
-NOTE: This repo is being archived on the 30th of October 2024.
+NOTE: This repo is being archived on the 30th of October 2024. Unarchived on 21th November 2024.
