@@ -1,9 +1,4 @@
-**This Project is being rewriten in C to make it faster, and better looking.**
-
-
-
-
-Hummingbird is a GUI for the TI-84 Plus CE programmable graphing calculator written completely in TI-BASIC.
+Hummingbird is a powerful GUI for the TI-84 Plus CE programmable graphing calculator written completely in TI-BASIC.
 
 **1: Installation:**
 Use TI-Connect CE or an alternative program to send HBIRD.8xp and HSYS.8xp to your calculator. Ensure that HSYS.8xp is stored in RAM.
